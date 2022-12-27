@@ -1,6 +1,8 @@
-# Min
+# Platform browser
 
-Min is a fast, minimal browser that protects your privacy. It includes an interface designed to minimize distractions, and features such as:
+A temporary platform for browser development. Based on Min browser, but with the opposite goals.
+
+ByteLab Platform is a fast, feature rich browser that protects your privacy. It includes an interface designed to minimize distractions, and features such as:
 
 - Information from [DuckDuckGo](https://duckduckgo.com) in the search bar.
 - Full-text search for visited pages
